@@ -43,6 +43,6 @@ figcaption {
 /* Descendent Selector
 */
 
-#logo h1 { /* selects <h1> if indisde the id="logo"
+#logo h1 { /* selects <h1> if indisde the id="logo" */
 
 }
