@@ -10,6 +10,6 @@ selector {
 /* Type selector */
 
 p { /* select all <p> 8 */
-  font-size: 16px; /* 16px, ?pt, 100%, 1em */
-
+  font-size: 16px; /* 16px, ?pt, 100%, 1em (default is px is 16 - 16/how many you want to use) */
+  line-height: 1.5em;
 }
