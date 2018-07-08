@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Elsie')
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie')
 
 /* This is a comment */
 
@@ -44,5 +44,5 @@ figcaption {
 */
 
 #logo h1 { /* selects <h1> if indisde the id="logo" */
-
+  font-family:
 }
