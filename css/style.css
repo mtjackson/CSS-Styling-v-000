@@ -15,5 +15,7 @@ p { /* select all <p> 8 */
 }
 
 figcaption {
-  
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
 }
