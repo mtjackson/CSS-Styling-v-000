@@ -28,5 +28,5 @@ figcaption {
 
 /* Class selector (applied to as many elements as you like)
 */
-
-
+.milk-text { /* select elements with class="milk-text" */
+}
